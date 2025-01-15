@@ -2,7 +2,7 @@
 
 ## Começando
 
-Projeto é uma aplicação Full Stack, que inclui tanto o Front-end quanto o Back-end, utilizando React JS no Front-end e Spring Boot no Back-end. A API de lista de tarefas (ToDo List) permite que os usuários criem, leiam e excluam tarefas, além de armazenar informações como título, descrição e status. A aplicação é conteinerizada com Docker, facilitando sua implementação e escalabilidade. Nesta documentação, analisaremos os pré-requisitos, o processo de instalação, construção e as versões do projeto referentes à parte Front-end.
+O projeto é uma aplicação Full Stack, que inclui tanto o Front-end quanto o Back-end, utilizando React JS no Front-end e Spring Boot no Back-end. A API de lista de tarefas (ToDo List) permite que os usuários criem, leiam e excluam tarefas, além de armazenar informações como título, descrição e status. A aplicação é conteinerizada com Docker, facilitando sua implementação e escalabilidade. Nesta documentação, analisaremos os pré-requisitos, o processo de instalação, construção e as versões do projeto referentes à parte Front-end.
 
 ### 📋 Pré-requisitos
 
